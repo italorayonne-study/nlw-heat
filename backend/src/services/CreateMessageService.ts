@@ -13,7 +13,7 @@ class CreateMessageService {
       },
     });
 
-    const infoWS =  {
+    const infoWS = {
       text: message.text,
       user_id: message.user_id,
       created_at: message.created_at,
@@ -23,7 +23,7 @@ class CreateMessageService {
       },
     };
 
-   setTimeout(() =>  io.emit("new_message", infoWS), 1000)
+    io.emit("new_message", infoWS);
 
     return message;
   }
