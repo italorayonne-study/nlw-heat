@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O NLW-HEAT foi um projeto desenvolvido na semana NLW da Rocketseat, onde juntos desenvolvemos uma aplicação completa, abordando os conceitos de Websocket, Authenticate com oauth do Github, Middleware entre outros e no front, conceitos de Context API, State, UseEffect.
 
-No final, com a aplicação rodando era possível fazer a autenticação com o usuário do Github, cadastrar novas mensagens na plataforma e listar de forma automática estas novas mensagens cadastradas e isto consumundo a API desenvolvida.
+No final, com a aplicação rodando era possível fazer a autenticação com o usuário do Github, cadastrar novas mensagens na plataforma e listar de forma automática estas novas mensagens cadastradas e isto consumindo a API desenvolvida.
 
 ## 🔖 Layout
 
